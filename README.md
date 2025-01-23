@@ -1,5 +1,7 @@
 # 🏪 Mall Customers - Aprendizaje No Supervisado - K Means - Clustering Jerárquico
 
+> 💡 También puedes visualizar el informe a traves del siguiente enlace de la plataforma de Kaggle: [Aprendizaje No Supervisado - Anderson Rodriguez](https://www.kaggle.com/code/andersonrodriguezs/aprendizaje-no-supervisado-k-means-en-espa-ol)
+
 Este proyecto se centra en el análisis de datos de clientes de un centro comercial utilizando técnicas de aprendizaje no supervisado, específicamente K Means y clustering jerárquico. El objetivo es segmentar a los clientes en grupos homogéneos para entender mejor sus comportamientos y características, lo cual puede ser útil para estrategias de marketing y personalización de servicios.
 
 ## 📖 Contenido
